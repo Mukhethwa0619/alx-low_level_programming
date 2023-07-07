@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints its name 
- * @argc: argument count 
+ * main - Prints its name
+ * @argc: argument count
  * @argv: argument vector
  *
  * Return: Always zero
